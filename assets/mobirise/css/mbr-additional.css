@@ -868,9 +868,6 @@ body {
 .cid-repa7rjItl .mbri-down {
   color: white;
 }
-.cid-repa7rjItl .typed-text {
-  margin-top: 20px !important;
-}
 .cid-repa7rjItl .mbr-section-title,
 .cid-repa7rjItl .mbr-section-subtitle {
   color: #000000;
@@ -902,7 +899,7 @@ body {
 }
 @media (max-width: 991px) {
   .cid-repa7rjItl .mbr-figure {
-    margin-top: 2rem;
+    margin-top: 60px;
   }
 }
 @media (max-width: 767px) {
@@ -1427,7 +1424,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-repci1VYkJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1576,7 +1573,7 @@ body {
   flex-direction: column;
 }
 .cid-reBTOrCe7J .mbr-text {
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-reBTOrCe7J .input-wrap,
 .cid-reBTOrCe7J .form-group {
